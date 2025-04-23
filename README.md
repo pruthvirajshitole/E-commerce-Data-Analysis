@@ -28,5 +28,4 @@ The project involves:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pruthvirajshitole/ecommerce-data-analysis.git
-   cd ecommerce-data-analysis
+   git clone https://github.com/pruthvirajshitole/E-commerce-Data-Analysis.git
